@@ -51,7 +51,7 @@ There are a lot of content-types so I'm centralizing them here.
 
 ## 💪 Contributing
 
-Expressions are always welcome, so please <a href="https://github.com/baronblue/content-type-compendium/issues/new/choose">Submit an Expression</a>. I'll check it, and if it makes sense, I'll add it. Please don't forget to include what's it supposed to test for
+New content-types are always welcome, so please <a href="https://github.com/baronblue/content-type-compendium/issues/new/choose">Submit a new content-type</a>. I'll check it, and if it makes sense, I'll add it. Please don't forget to include what's it supposed to test for
 
 <hr>
 <p align="center">
